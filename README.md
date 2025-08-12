@@ -1,2 +1,2 @@
-# asset-hub
-Just a repo to hold lots of my assets when it comes to websites and linking in code.
+# ZachDK's asset hub.
+This is basically just a repo to hold lots of assets that I link in my code. Most evidently seen in UNDERTALE Funk-Mode's host & sub pages.
